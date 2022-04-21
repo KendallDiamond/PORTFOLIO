@@ -27,10 +27,11 @@ About section
     max-width: 400px;
     text-align: center;
 }
-#about img{
+#about img.profile-img{
     border-radius: 50%;
     width: 120px;
     margin-bottom: 10px;
+    height: 101px;
 }
 #about .name{
     font-size: 19px;
@@ -72,7 +73,10 @@ Project Section
 #project .card-title{
     font-weight: bold;
 }
-
+#about .icons a img {
+    width:10%;
+    border-radius: none;
+}
 
 
 
