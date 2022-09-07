@@ -1,13 +1,13 @@
-# portfolio
+# Portfolio
+This is my Portfolio Project. Using Html and Css and Bootstarp.
+[Visit Demo Website Hosted by Heroku](https://portfolio-muk.herokuapp.com)
 
-This is my Portfolio project
+![portfolio](https://user-images.githubusercontent.com/97320145/153090357-d6e6bbcb-f356-4cca-a975-b938d15e99d4.jpg)
 
- Learn about HTML / CSS / Bootstrap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Visit Demo Website Hosted by Heroku](https://portfolio-kendall.herokuapp.com/)
+
 ## Tech used
 * HTML
 * CSS
+* Bootstrap
 ## Installation
 No need to install anything, just open index.html.
-## How to use?
-Customize and create your own original portfolio. Take on various challenges such as changing colors, adding effects, and changing designs. Just include ABOUT, PROJECTS, and CONTACT information in your portfolio and don't get too complicated. Simple is the best.
